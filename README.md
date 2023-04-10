@@ -6,3 +6,5 @@ In the original layout were not given unfinished pages such as:
 * FINANCE
 * LEASE VS BUY
 * footer
+
+In this web page i encounted problems with JavaScript slider that allowed me to again experience with this feuture and take on a board in future work
